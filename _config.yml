@@ -1,1 +1,9 @@
 theme: jekyll-theme-architect
+title: U-keun's hompage
+url: 'http://u-keun.github.io'
+baseurl: '/'
+
+author:
+name: U-keun Song
+email: sukeun319@gmail.com
+github_username: U-keun
