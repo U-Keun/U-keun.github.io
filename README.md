@@ -14,5 +14,6 @@ E-mail: sukeun319@gmail.com
 - Proof of Chapoton's Conjecture on Newton Polygons of $q$-Ehrhart Polynomials (with Jang Soo Kim), E-JC Volume 25, Issue 2 (2018). [Link](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v25i2p51)
 
 ### Education
-- Combined master's-Ph.D. Mathematics, Sungkyunkwan University, Mar. 2016 - present Advisor : [Jang Soo Kim](https://jangsookim.github.io/)
+- Combined master's-Ph.D. Mathematics, Sungkyunkwan University, Mar. 2016 - present 
+  Advisor : [Jang Soo Kim](https://jangsookim.github.io/)
 - B.S. Mathematics, Sungkyunkwan University, Mar. 2010 - Feb. 2016
