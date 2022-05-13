@@ -1,5 +1,5 @@
 ### U-keun Song
-I'm a graduate student at Sungkyunkwan university and interseted in enumerative combinatorics.
+I'm a graduate student at Sungkyunkwan University and interseted in enumerative combinatorics.
 
 Yay.
 
@@ -13,4 +13,4 @@ E-mail: sukeun319@gmail.com
 
 ### Education
 - Combined master's-Ph.D. Mathematics, Sungkyunkwan University, Mar. 2016 - present
-- B.S. Mathematics, Sungkyunkwan Unniversity, Mar. 2010 - Feb. 2016
+- B.S. Mathematics, Sungkyunkwan University, Mar. 2010 - Feb. 2016
