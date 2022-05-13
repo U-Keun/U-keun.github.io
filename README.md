@@ -1,5 +1,5 @@
 ### U-keun Song
-![photo](ukeun_photo.jpeg){: width="50%" height="50%"}
+![photo](ukeun_photo.jpeg)
 I'm a graduate student at Sungkyunkwan University and interseted in enumerative combinatorics.
 
 Yay.
