@@ -15,5 +15,5 @@ E-mail: sukeun319@gmail.com
 
 ### Education
 - Combined master's-Ph.D. Mathematics, Sungkyunkwan University, Mar. 2016 - present 
-  Advisor : [Jang Soo Kim](https://jangsookim.github.io/)
+  - Advisor : [Jang Soo Kim](https://jangsookim.github.io/)
 - B.S. Mathematics, Sungkyunkwan University, Mar. 2010 - Feb. 2016
